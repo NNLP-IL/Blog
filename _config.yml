@@ -29,7 +29,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /
+    url: /Blog
   - text: About
     url: /about/
   - text: Style Guide
@@ -70,4 +70,4 @@ sass:
   sass_dir: _sass
   style: compressed
 
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
