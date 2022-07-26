@@ -15,7 +15,7 @@ title: "NNLP Blog"
 description: "This Blog is an NLP Blog and much more"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "Blog"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: ""
@@ -29,7 +29,7 @@ google_analytics: ""
 # Site navigation - each item must have a title and a url.
 navigation:
   - text: Home
-    url: /Blog
+    url: /
   - text: About
     url: /about/
   - text: Style Guide
