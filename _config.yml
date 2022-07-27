@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "NNLP Blog"
+title: "NNLP-IL Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "This Blog is an NLP Blog and much more"
+description: "NNLP-IL Blog - a national initiative for the creation of infrastructure, research and development of advanced capabilities for the advancement of the field of NLP in Hebrew and Arabic."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: "/Blog"
@@ -32,12 +32,7 @@ navigation:
     url: /Blog
   - text: NNLP-IL
     url: https://nnlp-il.mafat.ai/
-  - text: Index Hebrew NLP
-    url: https://github.com/NNLP-IL/Resources
-  - text: NLPH Facebook
-    url: https://www.facebook.com/groups/157877988136954/
-  - text: Jekyll-Theme
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
