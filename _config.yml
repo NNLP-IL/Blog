@@ -32,12 +32,7 @@ navigation:
     url: /Blog
   - text: NNLP-IL
     url: https://nnlp-il.mafat.ai/
-  - text: Index Hebrew NLP
-    url: https://github.com/NNLP-IL/Resources
-  - text: NLPH Facebook
-    url: https://www.facebook.com/groups/157877988136954/
-  - text: Jekyll-Theme
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+
 
 # The shortname for your Disqus site to enable comments.
 disqus: justgoodthemes
