@@ -25,6 +25,9 @@
     </div><!-- .site-navigation-wrap -->
   </nav><!-- .site-navigation -->
   <button id="menu-open" class="menu-toggle"><span class="screen-reader-text">Open Menu</span><span class="icon-menu" aria-hidden="true"></span></button>
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
 </header>
 
 {% if site.description and site.description != "" and page.url == "/" %}
