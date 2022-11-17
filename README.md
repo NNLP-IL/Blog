@@ -2,11 +2,7 @@
 
 Welcome to our NLP Blog!
 
-## The official blog of Israel's National NLP Blog.
-In this blog you can find:
-* New Inventions
-* Index to the current tools
-* More incredible news of NLP in Hebrew
+## The official blog of Israel's National NLP Program.
 
 ## Site URL
 https://nnlp-il.github.io/Blog/
